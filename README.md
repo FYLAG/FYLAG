@@ -46,4 +46,4 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
 
 ##  
 
-![GIF]("https://media.tenor.com/qkgAHY2opyUAAAAd/banner-anime.gif")
+<img width="100%" src="https://github.com/FYLAG/FYLAG/assets/43699807/11b1faba-0c1d-4980-9b4f-0b0d884c5946" alt="Anime"/>
