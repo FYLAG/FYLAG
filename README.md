@@ -36,10 +36,6 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
 * C++ / C# / Java / Python / Dart
 * SQLite / MySQL / PostgreSQL / Firebase
 * HTML5 / CSS / JavaScript
@@ -50,6 +46,4 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
 
 ##  
 
-<p>
-    <img width="100%" src="https://media.tenor.com/qkgAHY2opyUAAAAd/banner-anime.gif" alt="GIF"/>
-</p>
+![GIF]("https://media.tenor.com/qkgAHY2opyUAAAAd/banner-anime.gif")
